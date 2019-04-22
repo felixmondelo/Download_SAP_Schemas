@@ -3,3 +3,6 @@
 ################################################################################
 
 /Download_SAP_Schemas/bin/Debug
+/Download_SAP_Schemas/obj
+/packages/Newtonsoft.Json.12.0.2
+/.vs
